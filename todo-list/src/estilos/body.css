@@ -58,3 +58,7 @@ body {
 .frio {
   background-image: url('../img/frio.jpg');
 }
+
+.hot {
+  background-image: url('../img/hot.jpg');
+}
